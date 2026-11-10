@@ -68,7 +68,7 @@ The application follows a modular structure that separates the command-line inte
 Clone the repository:
 
 ```bash
-git clone YOUR_REPOSITORY_URL
+git clone https://github.com/adeysh/personal-expense-tracker.git
 cd personal-expense-tracker
 ```
 
