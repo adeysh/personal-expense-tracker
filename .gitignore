@@ -1,0 +1,29 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Expense data backups
+expenses.json.bak
+
+# Test and coverage files
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Temporary and log files
+*.tmp
+*.log
